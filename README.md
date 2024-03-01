@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # Le Truong Thao Ly 👋
 
-![Profile Picture](profile_picture.jpg)
-
 **School:** Da Nang University of Economics
 
 **Location:** Da Nang, Vietnam
